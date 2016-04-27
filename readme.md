@@ -124,7 +124,7 @@ Production seemingly followed a monthly pattern as it took slightly less then si
 
 Similar confusion shrouds the end of publication in mystery. As no publication dates were actually provided in the mastheads of individual issues and since the issue wrappers were mostly discarded upon binding the issues into volumes, the only surviving explicit dating is provided by the volumes' cover sheets. According to its covers sheet, volume 8 was published through 1332 aH, i.e. between December 1913 and November 1914. However an [article in issue 9](https://rawgit.com/tillgrallert/ArabicTeiEdition/master/MajallatMuqtabas/xml/oclc_4770057679-i_91.TEIP5.xml#p_98.d1e2707) reports on the inauguration of a Mosque in Berlin at the end of Ram 1333 aH (mid-August 1915). The same issue reviews a number of books printed in 1333 aH and [one book published in 1334 aH](https://rawgit.com/tillgrallert/ArabicTeiEdition/master/MajallatMuqtabas/xml/oclc_4770057679-i_91.TEIP5.xml#div_24.d1e3028) in addition to the announcement of a publication on the ["first year of the war"](https://rawgit.com/tillgrallert/ArabicTeiEdition/master/MajallatMuqtabas/xml/oclc_4770057679-i_91.TEIP5.xml#div_26.d1e3075), which would mean that it was not published before November 1915 (Muḥarram 1334 aH) and most likely in 1916. Issue 12 of the same volume even recorded a [notebook for the year 1917](https://rawgit.com/tillgrallert/ArabicTeiEdition/master/MajallatMuqtabas/xml/oclc_4770057679-i_94.TEIP5.xml#p_384.d1e4223) in the section on new books and publications, which also listed further books published in 1334 aH. The following issue continues this trend by publishing an [obituary for Shaykh ʿAbd al-Razzāq al-Bayṭār](https://rawgit.com/tillgrallert/ArabicTeiEdition/master/MajallatMuqtabas/xml/oclc_4770057679-i_95.TEIP5.xml#div_16.d1e2869), who died in Damascus on 10 Rab 1335 [4 January 1917].
 
-In addition to the original edition, at least one reprint appeared: In 1992 Dār Ṣādir in Beirut published a facsimile edition, which is entirely unmarked as such but for the information on the binding itself. Checking this reprint against the original, it appeared to be a facsimile reprint: pagination, font, layout --- everything is identical. But as Samir Seikaly remarked in 1981 that he used "two separate compilations of *al-Muqtabas* [...] in this study" there must be at least one other print edition that I have not yet seen.[^12]
+In addition to the original edition, at least one reprint appeared: In 1992 Dār Ṣādir in Beirut published a facsimile edition that is entirely unmarked as such but for the information on the binding itself. Checking this reprint against the original, it appeared to be a facsimile reprint: pagination, font, layout --- everything is identical. But as Samir Seikaly remarked in 1981 that he used "two separate compilations of *al-Muqtabas* [...] in this study" there must be at least one other print edition that I have not yet seen.[^12]
 
 [^12]:{Seikaly 1981@128}
 
@@ -165,6 +165,43 @@ Image files are available from the [*al-Aqṣā* Mosque's library in Jerusalem t
 > Public Domain or Public Domain in the United States, Google-digitized: In addition to the terms for works that are in the Public Domain or in the Public Domain in the United States above, the following statement applies: The digital images and OCR of this work were produced by Google, Inc. (indicated by a watermark on each page in the PageTurner). Google requests that the images and OCR not be re-hosted, redistributed or used commercially. The images are provided for educational, scholarly, non-commercial purposes.
 > 
 > Note: There are no restrictions on use of text transcribed from the images, or paraphrased or translated using the images.
+
+
+### 3.1.3 [arshīf al-majallāt al-adabiyya wa-l-thaqafiyya al-ʿarabiyya (archive.sakhrit.co)](archive.sakhrit.co)
+
+Recently, a colleague pointed me to another gray online library of Arabic material---one that was entirely dedicated to cultural and litrary journals. They seemingly scanned a large number of Arabic journals over very long publication periods
+
+They provide:
+
+1. Partially watermarked digital imagery
+2. Functional tables of content for each issue, including author, title, page number
+3. Some bibliographic metadata on the issue level
+
+They do not provide a digital, machine-readable text.
+
+The focus is on cultural and scientific journals of the 20th century but they also have some journals of the late 19th and early 20th centuries, among them:
+
+- Cairo
+    + [al-Muqtaṭaf](http://archive.sakhrit.co/newmagazineYears.aspx?MID=107)
+    + [al-Ustādh](http://archive.sakhrit.co/newmagazineYears.aspx?MID=106)
+    - [al-Hilāl](http://archive.sakhrit.co/newmagazineYears.aspx?MID=134)
+    + [al-Bayān](http://archive.sakhrit.co/newmagazineYears.aspx?MID=161)
+    + [al-Manār](http://archive.sakhrit.co/newmagazineYears.aspx?MID=33)
+    + [al-Jāmiʿa (al-ʿUthmāniyya)](http://archive.sakhrit.co/newmagazineYears.aspx?MID=114)
+    + [al-Zuhūr](http://archive.sakhrit.co/newmagazineYears.aspx?MID=40)
+- Lebanon
+    - [al-Mashriq](http://archive.sakhrit.co/newmagazineYears.aspx?MID=108)
+- Syria
+    - [al-Muqtabas](http://archive.sakhrit.co/newmagazineYears.aspx?MID=125)
+
+As with other gray libraries, such as shamela.ws, the website is quiet about the personnel or company behind it. It remains unclear where the originals came from, who scanned them, who transcribed the heads, authors, and page numbers seemingly available for every article. The rather illegal / gray nature of the endeavour becomes clear from the shift from a `.com` to a `.co` domain (country code top-level domain for Colombia) documented by the watermark in the imagery that still refers to the `http://Archivebeta.Sakhrit.com` domain.
+
+I have assessed the quality of their "scans" of *al-Muqtabas*. Some volumes/ issues have been scanned from the original or a facsimile edition. Others, such as at least volumes [4](http://archive.sakhrit.co/MagazinePages/Magazine_JPG/AL_moqtabs/Al_moqtabs_1909/Issue_1/001.JPG) and  [5](http://archive.sakhrit.co/MagazinePages/Magazine_JPG/AL_moqtabs/Al_moqtabs_1910/Issue_1/001.JPG), were indeed rendered from a modern digital text, namely shamela's transcription. This is supported by the strikingly similar absence of all footnotes and non-Arabic script; a modern interpunction not present in the original; paragraph breaks that mirror shamela's transcription; and the ellipsis between the two sections of a *bayt*, as provided by shamela (e.g. [archive.sakhrit](http://archive.sakhrit.co/MagazinePages/Magazine_JPG/AL_moqtabs/AL_moqtabs_1910/Issue_7/597.JPG) and [shamela](http://shamela.ws/browse.php/book-26523#page-3548)). The final evidence to prove this argument is that an uncommented gap of almost three pages in shamela's transcription of volume 5(7) is reproduced in archive.sakhrit's supposed facsimiles (compare the issue on[digital-muqtabas](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_54.TEIP5.xml#pb_61.d1e2036), [shamela](http://shamela.ws/browse.php/book-26523#page-3554), and [archive.sakhrit](http://archive.sakhrit.co/MagazinePages/Magazine_JPG/AL_moqtabs/AL_moqtabs_1910/Issue_7/605.JPG)). 
+
+Another, rather common, problem if archive.sakhrit's bibliographic metadata on both the article and the issue level. The first is obviously poised by the reference to image renderings of shamela's transcription, whose pagination does not correspond to the printed original. In addition, the tables of content provide only an eclectic selection of articles and sections and many articles are mis-attributed (for an example compare [the MODS file for out digital edition of Muqtabas 4(1)](https://rawgit.com/tillgrallert/digital-muqtabas/master/metadata/oclc_4770057679-i_37.MODS.xml) with [archive.sakhrit's *fihris* of the same issue](http://archive.sakhrit.co/contents.aspx?CID=5685)).
+The second issue relates to the publication dates. For *al-Muqtabas*, archive.sakhrit assumes a publication schedule in which volumes correspond to Gregorian years and issues correspond to Gregorian months (i.e. according to archive.sakhrit Muqtabas 1(1) was published on [1 January 1906](http://archive.sakhrit.co/contents.aspx?CID=5649)). This is despite the fact that *al-Muqtabas* clearly states its publication schedule on the front page of every volume as adhering to the *hijrī* calendar for both volumes and issues (e.g. [archive.sakhrit's facsimile of this issue's first page](http://archive.sakhrit.co/MagazinePages/Magazine_JPG/AL_moqtabs/AL_moqtabs_1906/Issue_1/001.JPG). As a consequence, bibliographic data obtained from archive.sakhrit cannot be considered reliable in any sense.
+
+Therefore archive.sakhrit is even more problematic than shamela in terms of scholarly use. The user is always aware of reading a derivative with an unknown relation to an assumed original while accessing a text from shamela. At archive.sakhrit, on the other hand, the user is deceived by a seemingly faithful representation of a fake original.
 
 
 ## 3.2 Full text
@@ -213,9 +250,9 @@ To allow a quick review of the mark-up and read the journal's content, I decided
 
 The webview provides a parallel display of either online or local facsimiles and the text of *al-Muqtabas*. It includes a fully functional table of contents, stable links to all section and article heads, and links to bibliographic metadata for every article. For a first impression see [*al-Muqtabas* 6(2)](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_62.TEIP5.xml). 
 
-![webview of [*al-Muqtabas* 6(2)](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_62.TEIP5.xml)](assets/images/webview-1.jpg)
+![webview of [*al-Muqtabas* 6(2)](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_62.TEIP5.xml)](assets/images/boilerplate_muqtabas-1.jpg)
 
-![webview of [*al-Muqtabas* 6(2)](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_62.TEIP5.xml) with expanded table of content](assets/images/webview-2.jpg)
+![webview of [*al-Muqtabas* 6(2)](https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_62.TEIP5.xml) with expanded table of content](assets/images/boilerplate_muqtabas-2.jpg)
 
 A detailed description of the web display is available [here](notes-web-display.md).
 

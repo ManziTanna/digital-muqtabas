@@ -11,20 +11,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_2.d1e1414</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -37,7 +29,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -49,7 +43,7 @@
             </detail>
             <extent unit="pages">
                <start>737</start>
-               <end>737</end>
+               <end>749</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -57,6 +51,14 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_2.d1e1414</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_3.d1e1551-mods">
       <titleInfo xml:lang="ar">
@@ -65,20 +67,20 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_3.d1e1551</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">القزويني</namePart>
+         <namePart type="given" xml:lang="ar">رضي الدين</namePart>
+         <namePart type="given" xml:lang="ar">محمد</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -91,7 +93,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -102,8 +106,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>750</start>
+               <end>765</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -111,6 +115,14 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_3.d1e1551</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_4.d1e2087-mods">
       <titleInfo xml:lang="ar">
@@ -119,20 +131,20 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_4.d1e2087</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">زخم</namePart>
+         <namePart type="given" xml:lang="ar">يوسف</namePart>
+         <namePart type="given" xml:lang="ar">جرجس</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -145,7 +157,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -156,8 +170,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>765</start>
+               <end>770</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -165,28 +179,35 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_4.d1e2087</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_5.d1e2254-mods">
       <titleInfo xml:lang="ar">
-         <title>مقابر المصريين وجنائزهم</title>
+         <title>مقابرالمصريين وجنائزهم</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_5.d1e2254</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">كمال</namePart>
+         <namePart type="given" xml:lang="ar">احمد</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -199,7 +220,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -210,8 +233,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>770</start>
+               <end>782</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -219,28 +242,34 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_5.d1e2254</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_6.d1e2438-mods">
       <titleInfo xml:lang="ar">
-         <title>الرأي الصريح</title>
+         <title>الرأي الصريح في مقالةالفصيح العامي والعامي الفصيح</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_6.d1e2438</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">المغربي</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -253,7 +282,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -264,8 +295,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>783</start>
+               <end>789</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -273,6 +304,14 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_6.d1e2438</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_7.d1e2550-mods">
       <titleInfo xml:lang="ar">
@@ -281,20 +320,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_7.d1e2550</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -307,7 +338,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -318,8 +351,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>789</start>
+               <end>798</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -327,6 +360,462 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_7.d1e2550</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_11.d1e2886-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: الآداب العربية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>789</start>
+               <end>793</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_11.d1e2886</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_12.d1e3239-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: بسط الشرق</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>793</start>
+               <end>794</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_12.d1e3239</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_13.d1e3253-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: معجم إنكليزي</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>794</start>
+               <end>794</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_13.d1e3253</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_14.d1e3270-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: بردي قديم</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>794</start>
+               <end>794</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_14.d1e3270</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_15.d1e3289-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: صناعات الأمراء</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>794</start>
+               <end>795</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_15.d1e3289</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_16.d1e3302-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: أعظم البوارج</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>795</start>
+               <end>795</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_16.d1e3302</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_17.d1e3326-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: حكم إفرنجية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>795</start>
+               <end>797</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_17.d1e3326</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_18.d1e3442-mods">
+      <titleInfo xml:lang="ar">
+         <title>سير العلم والاجتماع: السكك العثمانية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>797</start>
+               <end>798</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_18.d1e3442</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_8.d1e3079-mods">
       <titleInfo xml:lang="ar">
@@ -335,20 +824,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_8.d1e3079</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -361,7 +842,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -372,8 +855,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>798</start>
+               <end>800</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -381,6 +864,294 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_8.d1e3079</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_20.d1e3567-mods">
+      <titleInfo xml:lang="ar">
+         <title>مخطوطات ومطبوعات: الدروس العربية تأليفالشيخ مصطفى الغلايينيطبع بالمطبعة الأهليةفيبيروتسنة١٣٢٨ص٨٨</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>798</start>
+               <end>798</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_20.d1e3567</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_21.d1e3603-mods">
+      <titleInfo xml:lang="ar">
+         <title>مخطوطات ومطبوعات: الطريقة القدسية أو طريقة جديدة للقيودات المزدوجةلواضعهاإلياس بك القدسيطبع بالمطبعة البطريركية الأرثوذكسيةبدمشقص٣٢.</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>798</start>
+               <end>799</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_21.d1e3603</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_22.d1e3654-mods">
+      <titleInfo xml:lang="ar">
+         <title>مخطوطات ومطبوعات: ديوان سلام بن جندل روايةأبي سعيد الأصمعينشرهالأبلويسشيخوطبع فيالمطبعة الكاثوليكية فيبيروتسنة١٩١٠ص٤٩.</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>799</start>
+               <end>799</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_22.d1e3654</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_23.d1e3706-mods">
+      <titleInfo xml:lang="ar">
+         <title>مخطوطات ومطبوعات: كتب متفرقة</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>799</start>
+               <end>800</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_23.d1e3706</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_4770057679-i_59-div_24.d1e3834-mods">
+      <titleInfo xml:lang="ar">
+         <title>مخطوطات ومطبوعات: مجلتان جديدتان</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">المقتبس</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">كرد علي</namePart>
+            <namePart type="given" xml:lang="ar">محمد</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2016</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المقتبس</publisher>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>5</number>
+            </detail>
+            <detail type="issue">
+               <number>12</number>
+            </detail>
+            <extent unit="pages">
+               <start>800</start>
+               <end>800</end>
+            </extent>
+         </part>
+         <identifier type="oclc">4770057679</identifier>
+         <identifier type="oclc">79440195</identifier>
+         <identifier type="aucr">07201136864</identifier>
+         <identifier type="shamela">26523</identifier>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_24.d1e3834</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
    <mods ID="oclc_4770057679-i_59-div_9.d1e3208-mods">
       <titleInfo xml:lang="ar">
@@ -389,20 +1160,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
-      <location>
-         <url dateLastAccessed="2016-04-09" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_9.d1e3208</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">المقتبس</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal">
+         <name type="personal" xml:lang="ar">
             <namePart type="family" xml:lang="ar">كرد علي</namePart>
             <namePart type="given" xml:lang="ar">محمد</namePart>
             <role>
@@ -415,7 +1178,9 @@
                <placeTerm type="text" xml:lang="ar">دمشق</placeTerm>
             </place>
             <publisher xml:lang="ar">مطبعة المقتبس</publisher>
-            <dateIssued>1910-12-04</dateIssued>
+            <dateIssued encoding="w3cdtf">1910-12-04</dateIssued>
+            <dateOther type="hijri">1328-12-01</dateOther>
+            <dateOther>1328-12-01 [1910-12-04]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -426,8 +1191,8 @@
                <number>12</number>
             </detail>
             <extent unit="pages">
-               <start>737</start>
-               <end>737</end>
+               <start>800</start>
+               <end>800</end>
             </extent>
          </part>
          <identifier type="oclc">4770057679</identifier>
@@ -435,5 +1200,13 @@
          <identifier type="aucr">07201136864</identifier>
          <identifier type="shamela">26523</identifier>
       </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2016-04-24" usage="primary display">https://rawgit.com/tillgrallert/digital-muqtabas/master/xml/oclc_4770057679-i_59.TEIP5.xml#div_9.d1e3208</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
    </mods>
 </modsCollection>

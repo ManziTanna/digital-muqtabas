@@ -2,6 +2,10 @@
 title: "Notes for TEI mark-up of *majallat al-muqtabas*"
 author: Till Grallert
 date: 2015-11-02
+tags:
+- documentation
+- tei
+- xml
 ---
 
 # Issues to be solved
@@ -80,6 +84,24 @@ As paragraphs (`<p>`) cannot interlace with `<div>`s after the first `<div>` chi
 
 The common structure of an issue would be a mix of `<div @type="article">` and `<div @type="section">`
 
+### heads
+
+Sections and articles are commonly introduced by a clearly distinguishable heading. These are marked-up as `<head>`. Some articles might also have sub headings, which should be marked up as `<head type="sub">`. 
+
+See for example [i_50](xml/oclc_4770057679-i_50.TEIP5.xml#div_5.d1e2312):
+
+~~~{.xml}
+<div type="article">
+    <head>الاتكال الشرقي</head>
+    <head type="sub">نصيحة غربي</head>
+    <p>
+        <!-- -->
+    </p>
+</div>
+~~~
+
+Beware that what looks like a sub heading, might also be a section heading introducing a sub section of an article.
+
 ### legal texts, bills
 
 It is quite common to find legal texts in late nineteenth, early twentieth century periodicals and I would like to differenciate them by means of the `@type="bill"` attribute because they can be nested inside an article or appear as free-standing chunk of text on the article level. Legal texts are commonly structured into sections / chapters, articles, and paragraphs and shall be encoded thus; i.e. as `<div type="section">`, `<div type="article">`, and `<p>`.
@@ -92,11 +114,13 @@ In some cases the legal text itself is accompanied by a commentary intersecting 
 
 ## Page, line, and column breaks
 
-Only page breaks should are recorded (`<pb>`). The page breaks found in *al-maktaba al-shāmila*, however, do not correspond to those in the original printed copies. They were therefore marked as `<pb ed="shamila">`. The page breaks corresponding to the original printed edition are identified by `@ed="print"`.
+Currently, only page breaks are recorded. They are marked up with the empty milestone element `<pb/>`. Page breaks found in *al-maktaba al-shāmila*, however, do not correspond to those in the original printed copies. They were therefore marked as `<pb ed="shamila">`. Page breaks corresponding to the original printed edition are identified by `@ed="print"`.
+
 Dār Ṣādir in Beirut published a reprint in 1992, which is entirely unmarked as such but for the information on the binding itself. Checking this reprint against the original, it appeared to be a facsimile reprint: pagination, font, layout --- everything is identical.
 
 1. Printed original copy: `<pb ed="print"/>`
-    - These page breaks are then linked through the `@facs` attribute to the `@xml:id` of a `<surface>` element; i.e. `<pb ed="print" facs="#facs_78"/>`
+    - the page number is recorded in the `@n` attribute
+    - These page breaks are then linked through the `@facs` attribute to the `@xml:id` of a `<surface>` element; i.e. `<pb ed="print" n="78" facs="#facs_78"/>`
 2. Transcription from *al-maktaba al-shāmila*: `<pb ed="shamela"/>`
 
 The current state of mark-up for page breaks is kept in a [second file](notes-tei-markup-pb.md).
